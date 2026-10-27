@@ -1,5 +1,11 @@
 #include<stdio.h>
 int main(){
     printf("welcome");
+    dispaly();
     return 0;
+
+}
+
+void display(){
+    printf("hello welcome");
 }
