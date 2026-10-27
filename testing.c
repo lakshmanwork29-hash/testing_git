@@ -8,4 +8,6 @@ int main(){
 
 void display(){
     printf("hello welcome");
+    printf("added in remote repo fetch and merge it");
+    
 }
